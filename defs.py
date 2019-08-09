@@ -1,4 +1,4 @@
-import pyautogui,time,datetime,cv2,random,sys,os,os.path 
+import time,datetime,cv2,random,sys,os,os.path 
 from PIL import Image, ImageDraw,ImageFilter,ImageFont
 from resizeimage import resizeimage   
 def nextgenpictime(time):
