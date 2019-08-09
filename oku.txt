@@ -1,6 +1,6 @@
 1.ilk once https://www.python.org/downloads/ bu siteden python indiriyorsunuz 
-2.https://www.apachefriends.org/ru/index.html bu siteden ise php dosyasinin calismasi icin xmopp indiriyorsunuz
-3.xammp indirdikden sonra xammp control panel isimli programi calistirin ve 
+2.https://www.apachefriends.org/ru/index.html bu siteden ise php dosyasinin calismasi icin xampp indiriyorsunuz
+3.xampp indirdikden sonra xampp control panel isimli programi calistirin ve 
 cikan penceredfe apache yazisinin karsisindaki starti basin
 4.sag tarafda explorer isimli dugmeye basin
 5.acilan dosyada htdocs dosyasina girin
