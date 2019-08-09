@@ -4,7 +4,7 @@
 cikan penceredfe apache yazisinin karsisindaki starti basin
 4.sag tarafda explorer isimli dugmeye basin
 5.acilan dosyada htdocs dosyasina girin
-6.sonra programin kurulu oldugu dosyayi htdocsun icine atin
+6.sonra programin kurulu oldugu dosyayi indirip ismini ppchange yapin ve htdocsun icine atin
 7.dosyanin icerisindeki start.py dosyasini calistirin 
 8.eger herhangi bir kutuphane bulunamadi diyorsa cmd ni acip pip3 install kutuphanenin adini yazin 
 9.eger pip kurulu degilse dosyanin icindeki get-pip dosyasini calistirin 
